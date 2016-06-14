@@ -20,7 +20,7 @@ exe = EXE(pyz,
           a.scripts,
           exclude_binaries=True,
           name='hello_flask',
-          debug=False,
+          debug=True,
           strip=False,
           upx=True,
           console=True )
