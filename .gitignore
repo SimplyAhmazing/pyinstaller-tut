@@ -1,0 +1,6 @@
+.DS_STORE
+dist/
+build/
+
+.py[cox]
+__pycache__
